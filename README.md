@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-<!--
-**techjmi/techjmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Md Shamim Akhter, a software engineer passionate about building web and mobile applications. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Personal Blog Application.
+- 🌱 I’m currently learning ReactJs, NodeJs, React Native, and AWS.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about MERN Stack, AWS, React Native.
+- 📫 How to reach me: [contactshamim62@gmail.com](mailto:contactshamim62@gmail.com)
+- 🌐 Check out my blog at [https://blog-mern-cfpm.onrender.com/](https://blog-mern-cfpm.onrender.com/)
 
-- 🔭 I’m currently working on Personal Blog Application
-- 🌱 I’m currently learning ReactJs,NodeJs, React Native, AWS..
-- 👯 I’m looking to collaborate on open source project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about MERN Stack, AWS, React Native
-- 📫 How to reach me:contactshamim62@gmail.com
--->
+Feel free to reach out if you have any questions or just want to connect!
+
