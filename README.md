@@ -11,6 +11,7 @@ I'm Md Shamim Akhter, a software engineer passionate about building web and mobi
 - 🌐 Check out my blog at [https://blog-mern-cfpm.onrender.com/](https://blog-mern-cfpm.onrender.com/)
 - 🚀 Connect with me:
   - LinkedIn: [Md Shamim Akhter](www.linkedin.com/in/md-shamim-akhter-b12624193)
+-⚡ Soft skills: Collaborative & Quick learner
 
 #### Languages and Tools:
 ![Appwrite](https://img.shields.io/badge/-Appwrite-05122A?style=flat&logo=appwrite)
@@ -27,8 +28,6 @@ I'm Md Shamim Akhter, a software engineer passionate about building web and mobi
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-
-⚡ Soft skills: Collaborative & Quick learner
 
 Feel free to reach out if you have any questions or just want to connect!
 
