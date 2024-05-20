@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Md Shamim Akhter, a software engineer passionate about building web and mobile applications. Here's a bit about me:
+
 ![Profile Views](https://komarev.com/ghpvc/?username=techjmi&color=brightgreen)
 
 - 🔭 I’m currently working on a **Personal Blog Application**.
