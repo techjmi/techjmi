@@ -10,8 +10,13 @@ I'm Md Shamim Akhter, a software engineer passionate about building web and mobi
 - 📫 How to reach me: [contactshamim62@gmail.com](mailto:contactshamim62@gmail.com)
 - 🌐 Check out my blog at [https://blog-mern-cfpm.onrender.com/](https://blog-mern-cfpm.onrender.com/)
 - 🚀 Connect with me:
-  - LinkedIn: [Md Shamim Akhter](www.linkedin.com/in/md-shamim-akhter-b12624193)
--⚡ Soft skills: Collaborative & Quick learner
+  - LinkedIn: [Md Shamim Akhter](https://www.linkedin.com/in/md-shamim-akhter-b12624193)
+- ⚡ Soft skills: Collaborative & Quick learner
+
+#### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techjmi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techjmi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techjmi&theme=radical)
 
 #### Languages and Tools:
 ![Appwrite](https://img.shields.io/badge/-Appwrite-05122A?style=flat&logo=appwrite)
@@ -30,7 +35,3 @@ I'm Md Shamim Akhter, a software engineer passionate about building web and mobi
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
 Feel free to reach out if you have any questions or just want to connect!
-
-
-
-
